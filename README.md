@@ -21,11 +21,11 @@ A WhatsApp-like chat application built with **Jetpack Compose** and **Firebase R
 
 ## 📱 Screenshots
 <img src="ScreenShots/home-light.jpeg" width="220"/>
-![Chat Screen light mode](ScreenShots/chat-light.jpeg)
-![Story Screen light mode](ScreenShots/story-light.jpeg)
-![Story Screen light mode](ScreenShots/find-contacts-light.jpeg)
-![Home Screen dark mode](ScreenShots/home-dark.jpeg)
-![Chat Screen dark mode](ScreenShots/chat-dark.jpeg)
+<img src="ScreenShots/chat-light.jpeg" width="220"/>
+<img src="ScreenShots/story-light.jpeg" width="220"/>
+<img src="ScreenShots/find-contacts-light.jpeg" width="220"/>
+<img src="ScreenShots/home-dark.jpeg" width="220"/>
+<img src="ScreenShots/chat-dark.jpeg" width="220"/>
 
 ## ❗ Notes
 - Calls and voice messages are not implemented yet.

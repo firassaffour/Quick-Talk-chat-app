@@ -20,7 +20,12 @@ A WhatsApp-like chat application built with **Jetpack Compose** and **Firebase R
 - MVVM Architecture
 
 ## 📱 Screenshots
-(Coming soon)
+![Home Screen light mode](ScreenShots/home-light.jpeg)
+![Chat Screen light mode](ScreenShots/chat-light.jpeg)
+![Story Screen light mode](ScreenShots/story-light.jpeg)
+![Story Screen light mode](ScreenShots/find-contacts-light.jpeg)
+![Home Screen dark mode](ScreenShots/home-dark.jpeg)
+![Chat Screen dark mode](ScreenShots/chat-dark.jpeg)
 
 ## ❗ Notes
 - Calls and voice messages are not implemented yet.

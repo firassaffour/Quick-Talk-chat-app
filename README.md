@@ -5,7 +5,7 @@ A WhatsApp-like chat application built with **Jetpack Compose** and **Firebase R
 ## 🚀 Features
 - Real-time chat
 - Stories (Status)
-- Send & receive friend requests
+- Find Contacts with Phone Numbers only
 - Push notifications (OneSignal)
 - Modern UI with Jetpack Compose
 - MVVM Architecture
@@ -35,4 +35,4 @@ A WhatsApp-like chat application built with **Jetpack Compose** and **Firebase R
   Number : +1 999-876-5432 OTP : 654321
 
 ## 👨‍💻 Author
-Firas Saffour
+Feras Saffour

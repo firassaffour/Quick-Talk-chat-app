@@ -20,8 +20,7 @@ A WhatsApp-like chat application built with **Jetpack Compose** and **Firebase R
 - MVVM Architecture
 
 ## 📱 Screenshots
-<img src="ScreenShots/home-light.jpeg" width="220"/>
-<img src="ScreenShots/chat-light.jpeg" width="220"/>
+<img src="ScreenShots/home-light.jpeg" width="220"/> <img src="ScreenShots/chat-light.jpeg" width="220"/>
 <img src="ScreenShots/story-light.jpeg" width="220"/>
 <img src="ScreenShots/find-contacts-light.jpeg" width="220"/>
 <img src="ScreenShots/home-dark.jpeg" width="220"/>
